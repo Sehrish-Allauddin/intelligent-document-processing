@@ -175,10 +175,11 @@ Machine Learning components are used for tasks such as:
 Sentence embeddings and similarity-based techniques can be used for semantic text processing and document-related matching tasks.
 
 ---
-## 🎥 Demo Video
+## 🎥 Project Demo
 
-[▶️ Watch the Project Demo](demo_video/IDP%20Project%20Demo.mp4)
+[![Watch the Project Demo](docs/demo_thumbnail.png)](demo_video/IDP%20Project%20Demo.mp4)
 
+**Click the image above to watch the full project demonstration.**
 ## 🏗️ System Architecture
 
 The overall processing pipeline can be represented as:
