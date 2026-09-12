@@ -1,0 +1,26 @@
+model:
+  name: efficientnet_b0
+  pretrained: true
+  num_classes: 4
+
+training:
+  epochs: 20
+  batch_size: 32
+  learning_rate: 0.0001
+  weight_decay: 0.0001
+
+optimizer:
+  name: AdamW
+
+scheduler:
+  name: CosineAnnealingLR
+  t_max: 20
+
+early_stopping:
+  patience: 5
+
+paths:
+  dataset: datasets/business_documents
+  model: models/best_model.pth
+  checkpoint: models/checkpoint.pth
+  reports: reports

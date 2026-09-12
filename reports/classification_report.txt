@@ -1,0 +1,15 @@
+Accuracy : 1.0000
+Precision : 1.0000
+Recall : 1.0000
+F1 Score : 1.0000
+
+              precision    recall  f1-score   support
+
+        form       1.00      1.00      1.00        31
+     invoice       1.00      1.00      1.00       151
+     receipt       1.00      1.00      1.00         6
+      resume       1.00      1.00      1.00       374
+
+    accuracy                           1.00       562
+   macro avg       1.00      1.00      1.00       562
+weighted avg       1.00      1.00      1.00       562
