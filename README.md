@@ -177,7 +177,7 @@ Sentence embeddings and similarity-based techniques can be used for semantic tex
 ---
 ## 🎥 Project Demo
 
-[![Watch the Project Demo](docs/demo_thumbnail.png)](demo_video/IDP%20Project%20Demo.mp4)
+[![Watch the Project Demo]https://github.com/Sehrish-Allauddin/intelligent-document-processing/issues/1#issue-5432892153
 
 **Click the image above to watch the full project demonstration.**
 ## 🏗️ System Architecture
